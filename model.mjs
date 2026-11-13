@@ -1,4 +1,4 @@
-export function groupGigs(gigs, {query = '', order = 'desc', today = new Date(), entities = []} = {}) {
+export function groupGigs(gigs, {query = '', order = 'asc', today = new Date(), entities = []} = {}) {
   const now = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
   const names = new Map(entities.map(e => [e.id, e.name]));
   const visible = gigs.filter(g => [g.text,g.notes,...g.tags,...g.entityIds.map(id=>names.get(id)||'')].join(' ').toLowerCase().includes(query.toLowerCase()));
@@ -11,7 +11,7 @@ export function groupGigs(gigs, {query = '', order = 'desc', today = new Date(),
   }
   return [...groups].sort(([a],[b])=>a==='Upcoming'?-1:b==='Upcoming'?1:a==='Other'?1:b==='Other'?-1:(order==='asc'?1:-1)*a.localeCompare(b));
 }
-export function renderGroups(document, target, groups, entities) {
+export function renderGroups(document, target, groups, entities, labels = {upcoming: 'Upcoming', other: 'Other'}) {
   target.replaceChildren();
   const entityMap = new Map(entities.map(e=>[e.id,e]));
   function link(parent, item) {
@@ -20,7 +20,7 @@ export function renderGroups(document, target, groups, entities) {
   }
   for (const [name,gigs] of groups) {
     const section=document.createElement('section'); section.className=name==='Upcoming'?'year upcoming':'year';
-    const h=document.createElement('h2'); h.textContent=`${name} / ${gigs.length}`; section.append(h);
+    const h=document.createElement('h2'); h.textContent=`${name === 'Upcoming' ? labels.upcoming : name === 'Other' ? labels.other : name} / ${gigs.length}`; section.append(h);
     const list=document.createElement('ol');
     for (const gig of gigs) {
       const item=document.createElement('li'); item.id=gig.id; item.className='gig';

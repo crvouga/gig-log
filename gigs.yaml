@@ -1,0 +1,885 @@
+version: 1
+gigs:
+  - id: "gig-3bb9923a6520"
+    date: "2021-02-05"
+    text: "2/5/21 house party show for Joe's friends around 20 people. Too late, b4, maroon cover, just a friend, we are young, that's okay, wonderwall"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-b33dccfd074d"
+    date: "2021-02-16"
+    text: "2/16/21 Mr GCU played too late and that's okay. Around 800 people. "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e95ba0cc2953"
+    date: "2021-03-11"
+    text: "3/11/21 rooftop show with dj fine and dj dorsal"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-c463eac5d5cb"
+    date: "2021-03-19"
+    text: "3/19/21 house party show danielle watched us play"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-785e5e32e2da"
+    date: "2021-03-26"
+    text: "3/26/21 aurora music festival at GCU"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-939323063908"
+    date: "2021-04-02"
+    text: "4/2/21 Keegan's house good friday best show to date"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e2eb774ef478"
+    date: "2021-04-12"
+    text: "4/12/21 Gilbert Christian HS mosh pit got us shut down"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-44ff8a045398"
+    date: "2021-04-15"
+    text: "4/15/21 Keegan's house round 2 with Hosea, joe got laid"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-600e1046caed"
+    date: "2021-06-18"
+    text: "6/18/21 house party too late music video"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-672cd13ca4d3"
+    date: "2021-07-10"
+    text: "7/10/21 Sozo Coffee Open Mic "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-9b496309a27e"
+    date: "2021-07-17"
+    text: "7/17/21 house party Joe’s mom watched us"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-2fbb0de872db"
+    date: "2021-08-19"
+    text: "8/19/21 Farewell Phoenix w/ Veronica Everheart, bummer girl, Odyth "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-dc20df9af763"
+    date: "2021-09-07"
+    text: "9/7/21 Brother. Show with Lily Waters"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-83c55396065a"
+    date: "2021-09-10"
+    text: "9/10/21 Keegan's House with Hosea"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-965e1c65d476"
+    date: "2021-09-17"
+    text: "9/17/21 Keegan’s House with Nateropolis"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-8cda125dc542"
+    date: "2021-10-08"
+    text: "10/8/21 Arizona State Fair"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-596f221d1e1b"
+    date: "2021-10-14"
+    text: "10/14/21 Traces house"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-37cf6c67fc04"
+    date: "2021-10-23"
+    text: "10/23/21 Double Dutch Kitchen"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-aa483006ba28"
+    date: "2021-10-24"
+    text: "10/24/21 Westgate Mall"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-0aa7bb1e0038"
+    date: "2021-10-29"
+    text: "10/29/21 Halloween Party at Traces. The cops showed up with a helicopter. "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-14348fc0242b"
+    date: "2021-11-06"
+    text: "11/6/21 Double Dutch Kitchen. Santarosas came."
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-1ffb7550f1d4"
+    date: "2021-11-12"
+    text: "11/12/21 Trunk Space. First Headlining Show. Ten Bulls, Chrome Rhino, Smooth Hands"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-17b62bd98339"
+    date: "2021-11-13"
+    text: "11/13/21 Double Dutch Kitchen. "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-8d6c8293ef9e"
+    date: "2021-11-19"
+    text: "11/19/21 Double Dutch Kitchen"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-ee3d93a123ae"
+    date: "2021-11-20"
+    text: "11/20/21 Westgate Mall"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-f55de7558dcc"
+    date: "2021-12-04"
+    text: "12/4/21 Christmas Mansion Party"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e0189b9e90d5"
+    date: "2021-12-07"
+    text: "12/7/21 Rebel Lounge with Practically People and Olen"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-99cb370387f3"
+    date: "2021-12-17"
+    text: "12/17/21 Double Dutch "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-c40f12032e56"
+    date: "2021-12-22"
+    text: "12/22/21 Charity Show with prince  mirth, cece oats, Micah Bentley "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e351302eab63"
+    date: "2021-12-31"
+    text: "12/31/21 New Years Party with bummer girl"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-6055f8d5b95f"
+    date: "2022-01-22"
+    text: "1/22/22 Nile underground with brace yourself, Bethany home, tracing faces, practically people. "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-50d3082d54f0"
+    date: "2022-01-29"
+    text: "1/29/22 balloon festival "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-857801426534"
+    date: "2022-02-25"
+    text: "2/25/22 GCU skatepark "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-4661a315dc56"
+    date: "2022-03-10"
+    text: "3/10/22 GCU Culture Fest"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-798fdde7104a"
+    date: "2022-03-11"
+    text: "3/11/22 House show with Bethany Home, rosemonte, practically people "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-c3e1f2b44332"
+    date: "2022-03-18"
+    text: "3/18/22 trunk space with aerial view, gingsu and badger springs. Band sleepover. "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-70004e77da2d"
+    date: "2022-03-25"
+    text: "3/25/22 romans house "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-d7721a46ca9e"
+    date: "2022-04-15"
+    text: "4/15/22 Death pop party w/ Hosea"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-f4de9348ee4a"
+    date: "2022-04-23"
+    text: "4/23/22 Nile theater with promise to myself and Izzy mahoubi"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-aa6bea460c61"
+    date: "2022-04-29"
+    text: "4/29/22 house show with practically people, slug bug, tracing faces"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-bb18b4d04ae7"
+    date: "2022-06-03"
+    text: "6/3/22 house show with Veronica everheart, slugbug, Freud  "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-4652f101ac62"
+    date: "2022-06-16"
+    text: "6/16/22 house show with wahwah, nifefire see and practically people"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-973e7603ddff"
+    date: "2022-07-08"
+    text: "7/8/22 house show with stim-shits, upchucks, so happy"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-ae8c9e95ebb3"
+    date: "2022-07-10"
+    text: "7/10/22 rebel lounge with gloomy June, slugbug and gluesticks "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-6d89d0ef0f68"
+    date: "2022-07-15"
+    text: "7/15/22 house show with gluesticks, wahwah and gone before us"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-77ec4e78872c"
+    date: "2022-08-19"
+    text: "8/19/22 rebel lounge promise to myself, John owens, and practically people. I don’t"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-73bd9d361b12"
+    date: "2022-08-25"
+    text: "8/25/22 yucca with tracers, schpilt, and the double cross"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-753fbc0c2970"
+    date: "2022-08-29"
+    text: "8/29/22 welcome week GCU shut down last song  "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-bd5a5e30e5a0"
+    date: "2022-09-10"
+    text: "9/10/22 house shows with Izzy mahoubi, tracing faces, blujoy "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-2884831fcc36"
+    date: "2022-09-17"
+    text: "9/17/22  house show with practically people, the joeys, deathpop"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-7aaea7f7c94c"
+    date: "2022-09-19"
+    text: "9/19/22 rebel lounge with vintage clothes, hotel pink and valley orange. "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-59fadecad78a"
+    date: "2022-10-01"
+    text: "10/1/22 joes uncle birthday"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-1a1b0119307a"
+    date: "2022-10-08"
+    text: "10/8/22 2nd Saturday Peoria "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-5052f74776cd"
+    date: "2022-10-28"
+    text: "10/28/22 Halloween house show with practically people, Lovelaced, gone before us "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-7b023a7a928c"
+    date: "2022-11-05"
+    text: "11/5/22 bearded barber with wild giants and Louis on tour "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-c38c133c4303"
+    date: "2022-11-10"
+    text: "11/10/22 last exit with deathpop, tv messages and commiserate "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-63da5656e436"
+    date: "2022-12-03"
+    text: "12/3/22 mansion Christmas party"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-6668fd81c9fa"
+    date: "2022-12-19"
+    text: "12/19/22 Nile underground with Aberdeen, Freud, Practically People"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-6fc7b3e284e5"
+    date: "2022-12-31"
+    text: "12/31/22 house party with police state, blujoy and commiserate, troubled minds"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-3047b0445d6b"
+    date: "2023-01-12"
+    text: "1/12/23 Nile underground with glass generations, dreamboat, rosemonte"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-274676006ed3"
+    date: "2023-01-14"
+    text: "1/14/23 Ryan’s birthday "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-7c75360ca107"
+    date: "2023-02-04"
+    text: "2/4/23 album release show at house with the better tomorrow, practically people and mourning high"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-058fcd5f53d7"
+    date: "2023-02-05"
+    text: "2/5/23 balloon festival"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-575fae3fd8a0"
+    date: "2023-02-10"
+    text: "2/10/23 underground with pp, the basements, ruff stuff"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e5fe589f0424"
+    date: "2023-02-18"
+    text: "2/18/23 lost leaf with wild giants, Louis on tour "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-61a7937ff4b8"
+    date: "2023-02-25"
+    text: "2/25/23 underground with tiny bird, tracers and schpilt "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-31e68eb36ff7"
+    date: "2023-03-14"
+    text: "3/14/23 jarrod's coffee with autumnal, shadow work, okainawa plane crash"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-627b179be6e6"
+    date: "2023-03-22"
+    text: "3/22/23 house show with Ryan cassata and Bethany home"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-1801f0d7fd91"
+    date: "2023-04-01"
+    text: "4/1/23 gift and thrift Nile underground"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-0bcc6803712d"
+    date: "2023-05-10"
+    text: "5/10/23 rebel lounge with Lead Pony, UVC, Tracers"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-0f72fc6ef1ce"
+    date: "2023-05-19"
+    text: "5/19/23 house show with Annie Jump Cannon, 1337 and Sapphire"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-c2caf8f50ec8"
+    date: "2023-06-27"
+    text: "6/27/23 rebel lounge with practically people, moontour and all the better "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-6ad40c1b9e93"
+    date: "2023-07-12"
+    text: "7/12/23 Nile underground with Trevor & the Travelers and sapphire. "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-6c1320beffe1"
+    date: "2023-08-26"
+    text: "8/26/23 Nile Theater with Aberdeen is Dead, Violent Vira, Max Diaz"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-763796b64017"
+    date: "2023-09-09"
+    text: "9/9/23 Royal Room with New Royals, Tracing Faces, Badlands"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-399af8a212bf"
+    date: "2023-09-11"
+    text: "9/11/23 Nile Underground with FRND CRCL, Good Terms, Practically People, Soul Bondurant"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-4506e736338d"
+    date: "2023-09-21"
+    text: "9/21/23 Nile Coffee Shop with Sundressed, Troubled Minds, Like Roses"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-2d019c6a7faf"
+    date: "2023-10-10"
+    text: "10/10/23 Proof in Pudding Round 1"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-dac6438b4b9c"
+    date: "2023-10-11"
+    text: "10/11/23 Marquee with Corey Feldman, PP, Chrome Rhino, Paper Foxes"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-a128d809777e"
+    date: "2023-10-21"
+    text: "10/21/23 Proof in Pudding Round 2"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-f105244e4519"
+    date: "2023-11-01"
+    text: "11/1/23 Valley Bar with Moonwalker and Nordista Freeze"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-0d57e8e7294c"
+    date: "2023-11-07"
+    text: "11/7/23 Proof in Pudding Round 3"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-4690eab0cf2f"
+    date: "2025-01-04"
+    text: "1/4/25 Ground Zero Studios with paper flower, cherry and reckless youth. First Tripolar show"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-bc4d5752f263"
+    date: "2025-01-18"
+    text: "1/18/25 Easy Tiger with King Summer and Bloom Phase"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-8a46f630b15f"
+    date: "2025-02-07"
+    text: "2/7/2025 BRI Taproom with Super Drive, Vicky Vicious and Gargulas "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-d6961cb2dffb"
+    date: "2025-03-14"
+    text: "3/14/2025 king pigeon thrift with Keller frank "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-227401f6126c"
+    date: "2025-03-28"
+    text: "3/28/2025 matts house with tracing faces, alien arcade and ruby shore. Tracing faces farewell after party"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-3886c171ea3a"
+    date: "2025-04-18"
+    text: "4/18/2025 Jabot coffee with Keller frank and cream pop"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-f9717da68dd7"
+    date: "2025-05-01"
+    text: "5/1/2025 open mic at Luckies indoor outdoor"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-a9e116f74584"
+    date: "2025-05-03"
+    text: "5/3/2025 the dark side with Lioneer and the zonies "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-756ac55e72d2"
+    date: "2025-05-23"
+    text: "5/23/2025 timeout lounge with Gargulus, super drive and bloom phase"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-f84ffaa48cef"
+    date: "2025-06-06"
+    text: "6/6/2025 the blooze with a bunch of bands"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-2a11ddc01f96"
+    date: "2025-06-17"
+    text: "6/17/2025 ground zero with a bunch of bands. Booking  was bad "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-fcd1a225f4eb"
+    date: "2025-07-12"
+    text: "7/12/2025 tempe time out with Keller Frank, Dizzy Mavis and someone else"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-9848617836b0"
+    date: "2025-07-25"
+    text: "7/25/2025 the blooze"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-f62821f69b84"
+    date: "2025-08-01"
+    text: "8/1/2025 the 44 "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-f317e5c07926"
+    date: "2025-08-16"
+    text: "8/16/2025 Metalheads"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-dd839707fa54"
+    date: "2025-08-23"
+    text: "8/23/2025 Central records with Mogely, sun grenade, Keller frank, moonwitch"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-1e3b47fc21c1"
+    date: "2025-08-30"
+    text: "8/30/2025 The blooze "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-4dbdd6d44c48"
+    date: "2025-09-06"
+    text: "9/6/2025 MySpace with Glassy Wells and some other bands  "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-9e68dd7faf7f"
+    date: "2025-09-13"
+    text: "9/13/2025 Rosetta room for afterbirth cartoon album release"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-8057888c264a"
+    date: "2025-10-04"
+    text: "10/4/2025 king pigeon"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-42e817153d51"
+    date: "2025-12-05"
+    text: "12/5/2025 ground zero"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-eead95a166ae"
+    date: "2025-12-06"
+    text: "12/6/2025 the hive, first show in flagstaff "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-85f2b6168dd8"
+    date: "2025-12-12"
+    text: "12/12/2025 the beat, first show in San diego"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e8740823fd5c"
+    date: "2025-12-13"
+    text: "12/13/2025 the holding company, our first encore"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-2efdaa8c7c63"
+    date: "2026-02-28"
+    text: "2/28/26 central records, moonwitch and tonight’s sunshine"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-244377625fa6"
+    date: "2026-03-06"
+    text: "3/6/2026 Gracie’s Tax Bar (Coven show) with Dogparty, MFGloomworld and Patience"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-42d3c1854d86"
+    date: "2026-03-14"
+    text: "3/14/2026 brickbox in Tucson, with tonight’s sunshine "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e6a9959d5c2d"
+    date: "2026-03-28"
+    text: "3/28/2026 Tempe timeout, with insomniacs and tonight’s sunshine "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-94e6ebba7a6b"
+    date: "2026-05-01"
+    text: "5/1/2026 Yucca Taproom with louis on tour, Dadoh and POC and others"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-29d2982329e5"
+    date: "2026-05-02"
+    text: "5/2/2026 Mesa Amplified Fest - Main Stage"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-45a71c0eaba3"
+    date: "2026-05-13"
+    text: "5/13/2026 RIPS Bar with Snailmate and DAIKAIJU"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-67ef21007367"
+    date: "2026-06-24"
+    text: "6/24/2026 Nile underground with cosmic kitty, Katy and plum "
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-d962b333f7dc"
+    date: "2026-07-08"
+    text: "7/8/2026 Yucca Taproom opening for Grocery Bag with Decent Places"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-96cb18325148"
+    date: "2026-08-13"
+    text: "8/13/2026 Yucca Taproom with Unpolished (LA), Keller Frank and Tapestrees"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-80f8abcd69b1"
+    date: "2026-08-22"
+    text: "8/22/2026 Central Records anniversary show with Sun Grenade, Patience and Mogley & the Zoniez"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-d6960f055ae4"
+    date: "2026-09-19"
+    text: "9/19/2026 Tempe takeover - Zia records"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-16932107e500"
+    date: "2026-10-18"
+    text: "10/18/2026 Rebel Lounge, Gemm Trauma Bonding EP release show with Beyond All Doubt and Silt"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e66e8e9ad4c9"
+    date: "2026-10-29"
+    text: "10/29/2026 Myspace with Dogparty and Some Band From PHX"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-2559bf8e5962"
+    date: "2026-10-31"
+    text: "10/31/2026 Halloween show with Dino Computer, Nile Underground"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-c39b324a37d3"
+    date: "2026-11-13"
+    text: "11/13/2026 Nile Underground with Dino Computer"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-e6f0b9ef5eaf"
+    date: "2026-11-14"
+    text: "11/14/2026 Side Pony Express Festival"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-76a64b169b34"
+    date: "2026-12-12"
+    text: "12/12/2026 Rips with Mogely/Zonies and Dadadoh/POC"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-52e47b477d49"
+    date: "2026-12-27"
+    text: "12/27/2026 Yucca with Big Bug and Keller Frank"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+  - id: "gig-7f3f80704064"
+    date: "2027-01-16"
+    text: "1/16/2027 Unpolished/Pulse! and more TBA"
+    links: []
+    entityIds: []
+    tags: []
+    notes: ""
+entities: []
