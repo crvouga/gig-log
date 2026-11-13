@@ -1,8 +1,8 @@
 # Gig log
 
-`gigs.yaml` is the only source of gig data. Edit it directly. No text/JSON copies, generated data files, or synchronization scripts. Keep gigs ordered oldest to newest by ISO `date`, with undated records last. Keep all original wording and whitespace inside `text` unchanged unless the user requests a specific correction.
+`gigs.yaml` is the only source of gig data. Edit it directly. No text/JSON copies, generated data files, or synchronization scripts. Keep gigs ordered oldest to newest by ISO `date`, with undated records last. Keep wording and whitespace inside `text` unchanged unless the user requests a specific correction. Store the date only in `date`, never as a prefix in `text`.
 
-Each gig has a permanent `id`, nullable ISO `date` string, `text`, `links` (`{label,url}` objects), `entityIds`, `tags`, and `notes`. Keep IDs stable. Quote dates and text. Preserve trailing spaces inside quoted text. Add a new show as one record in chronological position.
+Each gig has a permanent `id`, optional ISO `date` string, `text`, `links` (`{label,url}` objects), `entityIds`, `tags`, and `notes`. Omit empty fields (including empty arrays, empty strings, and null). Missing links, entityIds, tags, notes, and entities are treated as empty. Omit date for undated records. Keep IDs stable. Quote dates and text. Preserve trailing spaces inside quoted text. Add a new show as one record in chronological position.
 
 Reusable entities live in the same YAML file's `entities` array as `{id,type,name,links}` records. Reference their IDs in `entityIds`; never duplicate an entity per gig. Types can include artist, venue, person, or festival. Do not guess ambiguous identities. Links must use HTTP/HTTPS.
 
