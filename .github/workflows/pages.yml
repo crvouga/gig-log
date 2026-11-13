@@ -20,9 +20,9 @@ jobs:
       - run: scripts/verify.sh
       - name: Package static site
         run: |
-          mkdir -p _site/data
-          cp index.html style.css app.js model.mjs gigs.txt _site/
-          cp data/gigs.json _site/data/
+          mkdir -p _site/vendor
+          cp index.html style.css app.js model.mjs gigs.yaml _site/
+          cp vendor/js-yaml.mjs vendor/js-yaml.LICENSE _site/vendor/
       - uses: actions/upload-pages-artifact@v3
         if: github.ref == 'refs/heads/main'
         with:

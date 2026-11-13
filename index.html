@@ -1,4 +1,36 @@
 <!doctype html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="A personal archive of live performances, from house shows to festival stages."><title>Gig log — live archive</title><link rel="stylesheet" href="style.css"><script type="module" src="app.js"></script></head>
-<body><main><header><div class="masthead"><span>GIG LOG / LIVE ARCHIVE</span><a href="gigs.txt">View raw list ↗</a></div><p class="eyebrow">House shows. Late nights. Every stage.</p><h1 id="title">Every performance<br>i've played in</h1><div class="intro"><p>A running record of the rooms, the people,<br>and the shows along the way.</p><p class="stamp"><strong id="count">—</strong> shows & counting</p></div></header><section class="controls" aria-label="Archive controls"><label>Find a show<input id="search" type="search" placeholder="Band, venue, year, a memory…"></label><label>Order<select id="order"><option value="desc">Newest first</option><option value="asc">Oldest first</option></select></label></section><p id="status" role="status">Loading the archive…</p><div id="archive"></div><noscript>Enable JavaScript to explore the archive, or use the raw list above.</noscript><footer>THE SHOWS KEEP GOING. <a href="data/gigs.json">Structured data ↗</a></footer></main></body></html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Gig log</title>
+  <script>
+    try {
+      const theme = localStorage.getItem('gig-log-theme');
+      if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+    } catch {}
+  </script>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Gig log</h1>
+      <div class="settings">
+        <a href="gigs.yaml">YAML</a>
+        <label>Theme
+          <select id="theme"><option value="system">System</option><option value="light">Light</option><option value="dark">Dark</option></select>
+        </label>
+      </div>
+    </header>
+    <section class="controls" aria-label="Filters">
+      <label>Search<input id="search" type="search" placeholder="Search gigs"></label>
+      <label>Order<select id="order"><option value="asc">Oldest first</option><option value="desc">Newest first</option></select></label>
+    </section>
+    <p id="status" role="status"><span id="loading">Loading…</span><span id="results" hidden><span id="count"></span> gigs</span><span id="error" hidden>Could not load gigs. <a href="gigs.yaml">View YAML</a></span></p>
+    <div id="archive" data-upcoming="Upcoming" data-other="Other"></div>
+    <noscript><a href="gigs.yaml">View gigs</a></noscript>
+  </main>
+</body>
+</html>
